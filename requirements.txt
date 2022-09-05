@@ -1,0 +1,9 @@
+termcolor
+tqdm
+pyyaml
+easydict
+torch
+torchvision
+tqdm
+json
+pennylane
