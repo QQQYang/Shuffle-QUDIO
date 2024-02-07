@@ -13,4 +13,4 @@ logs/*
 logs
 figure
 docs
-data
+# data
